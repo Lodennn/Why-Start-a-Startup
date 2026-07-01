@@ -309,10 +309,11 @@ together.
 
 ## Further Reading
 
-- Paul Graham's essay on hiring and cofounders (referenced in his CS183B lecture, though
-  not repeated in full there) goes deeper into the "trust your instincts about people"
-  argument than the lecture format allowed.
-- Reid Hoffman's own account of building LinkedIn's early team, referenced briefly in
-  this chapter, is covered at greater length in Chapter 18 of this book.
+- Paul Graham's own CS183B lecture is the direct source of the "trust your instincts
+  about people" argument this chapter builds on.
+- Reid Hoffman's own CS183B lecture, only briefly drawn on in this chapter for the
+  team-composition and location material, covers a different set of topics at greater
+  length in Chapter 18 of this book (the investment thesis, and navigating a founder's
+  recurring paradoxes) — not LinkedIn's early hiring, which isn't repeated there.
 - Chapter 15 covers the mechanics of cofounder vesting in full — the legal structure that
   protects a company if a cofounder relationship does fall apart.

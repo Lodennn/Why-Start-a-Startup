@@ -35,6 +35,28 @@ does both: it created a lot of value, and it captured an unusually large share o
 Value creation alone tells you almost nothing about a company's worth. Capture is the
 other half of the equation, and it's the half most people forget to ask about.
 
+**Figure 3.1 — Value creation and value capture are independent axes**
+
+```
+Y (% of value
+ captured)
+high |            Google
+     |         (moderate X,
+     |          huge Y)
+     |
+     |
+low  |  Airlines                       <- most of science lands here too:
+     |  (huge X,                          enormous X, tiny Y
+     |   tiny Y)
+     +------------------------------------------------------ X (dollars of
+       small                                          huge          value created)
+```
+
+A company in the bottom-right (huge X, tiny Y) can matter enormously to the world and
+still be a terrible business to own. A company in the top-left (modest X, high Y) can
+look small by comparison and still be worth more. The two axes have to be reasoned about
+separately — neither one predicts the other.
+
 Thiel's own title for this argument, delivered with a straight face to a room of
 ambitious Stanford students, was blunter than anything in this chapter so far:
 **"competition is for losers."**

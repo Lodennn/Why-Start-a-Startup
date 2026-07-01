@@ -240,8 +240,8 @@ usually preserving some structured version of direct exposure (Spool's two-hours
 six-weeks minimum), not literally rotating every engineer through a support queue
 forever.
 
-**Is remote work a prerequisite for this kind of culture?** No, but it's worth noting
-Wufoo built all of this while fully remote, out of Florida, with a deliberately
+**Is remote work a prerequisite for this kind of culture?** No, but Wufoo built all of
+this while fully remote, out of Florida, with a deliberately
 short workweek (four and a half days, with Friday reserved for meetings and a strict
 fifteen-minute limit on any single real-time conversation before tabling it for later).
 That structure isn't required to build products people love — it's one specific,

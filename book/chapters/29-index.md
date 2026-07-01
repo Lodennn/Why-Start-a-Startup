@@ -18,7 +18,8 @@ Collison, John — Ch. 4, 5
 Collison, Patrick — Ch. 4, 5, 6, 10
 Conrad, Parker — Ch. 13
 Conway, Ron — Ch. 13, 14
-Gebbia, Joe — Ch. 2, 6
+English, Paul — Ch. 8
+Gebbia, Joe — Ch. 2, 6, 8
 Gottman, John — Ch. 8
 Graham, Paul — Ch. 1, 2, 4, 7, 9
 Grove, Andy — Ch. 19, 21

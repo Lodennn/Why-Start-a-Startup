@@ -78,14 +78,18 @@ account of why Jawbone never asked customers directly whether they'd pay for a w
 speaker — three different industries, the same underlying discipline, discovered
 separately rather than copied.
 
-And Reid Hoffman's account of the "paradoxes" a founder has to navigate — flexible vs.
-persistent, belief vs. fear, data vs. vision — turned out to be the same tension running
-underneath Ben Horowitz's account of seeing every management decision through the whole
-company's eyes, and underneath Keith Rabois's account of when to delegate completely
-versus when to decide something yourself. Different vocabulary, same underlying judgment
-call, showing up in lecture after lecture: there is rarely one fixed right answer, and
-the actual skill this entire book is trying to teach is knowing, in the moment, which
-side of a real tension the situation in front of you calls for.
+A softer version of the same pattern connects Reid Hoffman's account of the "paradoxes" a
+founder has to navigate — flexible vs. persistent, belief vs. fear, data vs. vision — to
+Ben Horowitz's account of seeing every management decision through the whole company's
+eyes, and to Keith Rabois's account of when to delegate completely versus when to decide
+something yourself. These are three genuinely different frameworks, built for three
+different problems, and none of the three lecturers drew this connection themselves — but
+laid side by side, they share a family resemblance worth naming: each one is really a tool
+for judgment under a situation with no fixed right answer, rather than a rule that always
+points the same direction. Different vocabulary, a related kind of underlying call, showing
+up across otherwise unconnected lectures: the actual skill this entire book is trying to
+teach is knowing, in the moment, which side of a real tension the situation in front of you
+calls for.
 
 If there's a single thread that ties the whole book together, it's this: nearly every
 piece of advice in these twenty-one chapters is really the same handful of underlying
@@ -116,3 +120,30 @@ people who need it solved as much as you do — then the thousand days on that g
 waiting for you the same way they waited for every founder in this book. Long, mostly
 invisible from the outside, and, if you get enough of the twenty-one chapters before this
 one right, eventually worth it.
+
+## Exercises
+
+1. **Recall:** Describe the shape of the Airbnb graph — spike, fall below the starting
+   line, trough of sorrow, false-hope wiggles, real growth — and explain why founders in
+   the trough usually can't yet tell which part of that shape they're in.
+2. **Apply:** If you're currently in (or can imagine being in) something like the trough
+   of sorrow, name one concrete signal, from any chapter in this book, you'd actually
+   check to tell honest stagnation apart from a genuinely dying idea.
+3. **Apply:** Write down, in one paragraph, whether the "you can't not do it" test from
+   Chapter 1 is currently true for you. If it isn't yet, name one specific thing from
+   Chapter 2's advice you could do this month to let an idea find you, rather than
+   forcing one.
+4. **Confront a counterexample:** This epilogue argues that telling investors and
+   employees the truth early, when a company is failing, is the right way to walk away.
+   Can you think of a situation where early honesty about likely failure could plausibly
+   backfire — for the company, or for the people being told? How would you weigh that
+   risk against the case this epilogue makes?
+
+## Further Reading
+
+- Sam Altman's own account of the Airbnb business-card drawing, and of the "thousand
+  days" it took the company to turn the corner, is covered in his CS183B lecture.
+- Paul Graham's essay "How to Get Startup Ideas" (Chapter 2) is the direct source of the
+  "let the idea find you" advice this epilogue closes on.
+- Chapter 1 is worth rereading immediately after this epilogue — the "you can't not do
+  it" test it opens with is the same test this book closes on.

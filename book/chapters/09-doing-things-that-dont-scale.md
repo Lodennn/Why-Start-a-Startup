@@ -283,6 +283,8 @@ building — or would you keep doing it until growth genuinely forced you to sto
 - Chapter 7 covers the same underlying principle from a product-development angle
   (Homejoy's manual cleaner-vetting process) rather than this chapter's growth-and-
   resilience framing.
+- Chapter 10 picks up immediately after this chapter, once a company's earliest,
+  by-hand traction has to turn into a real, measurable retention curve.
 - Chapter 19 covers the systems and delegation practices that eventually replace the
   unscalable, hands-on work this chapter describes, once a company has genuinely
   outgrown it.

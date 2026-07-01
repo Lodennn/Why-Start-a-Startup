@@ -72,9 +72,9 @@ than being left behind as a minority partner to whoever bought in.
 **No-shop / exclusivity period.** Once you sign a term sheet, this clause commits you to
 not soliciting or negotiating with other investors for a specified window — commonly 30
 to 60 days — while the investor completes due diligence and finalizes the legal
-documents. This is standard, but it's worth noting that signing a term sheet is a real
-commitment, even though it isn't the final binding agreement; don't sign one you're not
-seriously prepared to close.
+documents. This is standard, but signing a term sheet is a real commitment, even though
+it isn't the final binding agreement; don't sign one you're not seriously prepared to
+close.
 
 **Founder vesting / re-vesting.** Occasionally, an investor's term sheet will ask
 founders to restart their vesting schedule (or vest a portion of previously-vested

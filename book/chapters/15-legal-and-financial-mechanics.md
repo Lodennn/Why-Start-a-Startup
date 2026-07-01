@@ -101,6 +101,23 @@ Silicon Valley is **four years, with a one-year cliff**: nothing vests until the
 anniversary of the grant, at which point 25% vests all at once, and the remaining 75%
 vests monthly over the following three years.
 
+**Figure 15.1 — A standard 4-year vesting timeline, with a 1-year cliff**
+
+```
+% vested
+100% |                                                      *
+     |                                              . . . .
+ 75% |                                    *
+     |                            . . . .
+ 50% |                  *
+     |          . . . .
+ 25% |*
+     |
+  0% *-------------------------------------------------------
+     0                12               24               36  48
+                     (cliff)                                (months since grant)
+```
+
 **Table: A founder's vesting timeline on a standard 4-year grant with a 1-year cliff**
 
 | Time since grant | Percentage vested | What happens if the founder leaves now |

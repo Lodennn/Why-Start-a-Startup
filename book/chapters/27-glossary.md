@@ -69,9 +69,10 @@ round, an alternative to a SAFE. (Ch. 15)
 **Drag-along / tag-along rights** — term sheet clauses governing what happens to
 minority shareholders when a majority decides to sell the company. (Appendix B)
 
-**Elephant, deer, rabbit** — Christoph Janz's framework for categorizing a business by
-customer count and price point (few customers at a high price vs. many customers at a
-low price), each requiring a different sales motion. (Ch. 16)
+**Elephants and rabbits** — Christoph Janz's framework for categorizing a business by
+customer count and price point — a few customers at a high price ("elephants") versus
+many customers at a low price ("rabbits"), with a spectrum of combinations in between —
+each requiring a genuinely different sales motion. (Ch. 16)
 
 **FF stock** — a special class of founder stock structured so founders can sell some of
 it in a later financing round without distorting the common stock valuation. Setting it
@@ -87,10 +88,19 @@ Stonewalling — simply not responding — is identified as the most damaging to
 entire stake to match a lower down-round price regardless of the round's size. (Appendix
 B)
 
+**GMV (Gross Merchandise Volume)** — the total dollar value of goods or services
+transacted through a marketplace, as distinct from the marketplace's own revenue (its
+cut of that volume); eBay's GMV ran at roughly 10 times its reported revenue. (Ch. 10)
+
 **Growth accounting (new / resurrected / churned)** — a framework for breaking down
 user growth into new signups, users who return after 30+ days away, and users who
 leave — useful because resurrected and churned users often dominate the numbers once a
 product has been around for a few years. (Ch. 10)
+
+**Honesty curve** — Adora Cheung's observation that feedback gets more honest the less
+personally close the source is to you (strangers more honest than friends, friends more
+honest than family) — and that charging money for a product makes strangers' feedback
+even more honest still, since real money is now on the line. (Ch. 7)
 
 **Investment thesis** — a written, specific hypothesis for why a company will work,
 including what the founder believes they know that skeptics don't; tracked over time by
@@ -125,6 +135,10 @@ competition. (Ch. 3)
 **MVP (Minimum Viable Product)** — the smallest version of a product that still
 genuinely solves the core problem; the emphasis belongs on "viable," not "minimum." (Ch.
 7)
+
+**NPS (Net Promoter Score)** — a simple 0–10 rating of how likely a user is to recommend
+a product to a friend, used as a fast leading indicator of retention before a full
+retention curve has had time to develop. (Ch. 7)
 
 **North Star metric** — the single number a company chooses to align every team's
 decisions around (monthly active users, nights booked, messages sent), rather than

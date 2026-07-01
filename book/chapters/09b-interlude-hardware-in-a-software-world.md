@@ -167,7 +167,11 @@ a reason for anyone to keep wearing it.
 2. **Apply:** Take a hardware or connected-device idea and run it through the
    track-understand-act framework. Which layer does your current concept actually
    reach, and what would the next layer require?
-3. **Confront a counterexample:** This interlude argues hardware requires a fundamentally
+3. **Apply:** Pick a sixteen-week tooling cycle constraint (real or assumed) for a
+   hardware idea you're considering, and sketch what you'd need to validate through
+   software or a non-manufactured prototype before committing to that cycle — the same
+   discipline this interlude argues Rahman applied before shipping the Jambox.
+4. **Confront a counterexample:** This interlude argues hardware requires a fundamentally
    slower iteration cycle than software. Are there hardware categories where this isn't
    true — where iteration can happen nearly as fast as software — and what would need to
    be true about the product for that to work?

@@ -15,7 +15,8 @@ active users, nights booked, messages sent) the whole company optimizes toward.
 
 **Viral coefficient (K-factor)**
 
-> K = (invites sent per user) × (conversion rate of those invites)
+> K = payload (invites sent per user) × conversion rate (of those invited who sign up) ×
+> frequency (how often the invite cycle repeats)
 
 K above 1 means a user base grows on its own from virality alone; below 1, it eventually
 flatlines without other growth channels.

@@ -65,7 +65,24 @@ own contacts and repeat the cycle. Worked through with real numbers: if 100 peop
 invite per person who imports their contacts, and 10% of those invited click, and 50% of
 those who click sign up, and only 10–20% of new signups go on to import their own
 contacts, the resulting K-factor lands somewhere around 0.5–1.0 — not quite viral on its
-own. A cautionary case worth naming directly: some products, like the short-video app
+own.
+
+**Figure 11.1 — The invite-chain loop Ed's framework compounds into a K-factor**
+
+```
+  imports contacts --> sends invites --> invite is clicked --> recipient signs up
+        ^   (payload: e.g. 100                (conversion:            |
+        |    people per importer)              10% click,             |
+        |                                       then 50% of            |
+        |                                       clicks sign up)        |
+        +---------- some of these new signups import their own --------+
+                     contacts too (only 10-20%) and repeat the loop
+
+              K-factor = payload x conversion (click) x conversion (signup)
+                          x share of signups who repeat the loop
+```
+
+A cautionary case worth naming directly: some products, like the short-video app
 Viddy, pushed their K-factor comfortably above 1 through aggressive prompts and still
 collapsed, because none of that viral growth was backed by real retention underneath it.
 Virality without retention doesn't just under-deliver — it can actively mislead a team
@@ -281,3 +298,5 @@ spending more on the channel itself.
 - Chapter 13 returns to unit economics from the fundraising side — investors will ask
   about CAC, CLV, and payback period using exactly the framework introduced in this
   chapter's worked example.
+- Appendix C collects every formula from this chapter and Chapter 10 — K-factor, CAC,
+  CLV — on a single page for quick reference.

@@ -34,6 +34,31 @@ direction, using it to track cohort-by-cohort retention rather than growth-team
 forecasting. Two speakers, two industries, one identical curve — which is itself decent
 evidence the underlying pattern is real rather than a growth-team fashion.
 
+**Figure 10.1 — Two retention curves, and only one of them is a business**
+
+```
+% of cohort
+still active
+100% |*
+     | *
+     |  *
+     |   *,
+     |     *.                    <- no product-market fit:
+     |        *..                   keeps sloping toward zero
+     |           *...
+     |              *.....
+     |                    *..........
+  0% +------------------------------------------------ time since signup
+100% |*
+     | *
+     |  *.
+     |    *..
+     |       *...______________  <- product-market fit:
+     |                              bends and flattens,
+     |                              roughly parallel to the x-axis
+  0% +------------------------------------------------ time since signup
+```
+
 The instruction that follows directly from this: if your own curve hasn't flattened
 yet, do not hire a growth specialist, do not invest in virality mechanics, and do not
 worry about acquisition channels. Go back to Chapter 2 and Chapter 3's foundations —
