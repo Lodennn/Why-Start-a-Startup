@@ -81,6 +81,14 @@ only British food. Thiel's phrase for this kind of manufactured niche: "the some
 somewhere is really mostly just the nothing of nowhere — it's like the Stanford of North
 Dakota." One of a kind, maybe. Not actually Stanford.
 
+Hollywood pitches work the same way. Thiel's parody of the genre: a movie about "a
+college football star who joins an elite group of hackers to catch the shark that
+killed his friend." No such movie exists, which is the point — the pitch is built by
+stacking together enough narrow, specific-sounding categories that it feels like its own
+unique thing, when the honest question is simpler: is this actually a new category, or
+is it just another movie, competing in an industry so brutally competitive that almost
+nobody ever makes real money making films?
+
 The same move happens with startup pitches: sharing, mobile, and social, mashed together
 into a single business, describing the *intersection* of several huge categories as if
 that intersection were both real and valuable. Sometimes it is. Often it's a warning sign
@@ -91,8 +99,9 @@ two-thirds of the search market at the time Thiel gave this lecture, almost neve
 describes itself as a search engine. Depending on which regulator or reporter is asking,
 it describes itself as:
 
-- an **advertising company** — in which case search ads are a small fraction (roughly
-  3.5%) of the ~$500 billion global advertising market
+- an **advertising company** — in which case search advertising, a real but modest $17
+  billion, is a small fraction (roughly 3.5%) of the ~$500 billion global advertising
+  market
 - a **technology company** — in which case it's "competing" with car companies on
   self-driving, Apple on phones, Facebook on social, Microsoft on office software, and
   Amazon on cloud computing, all at once
@@ -154,13 +163,25 @@ than they could even count, with no way to carve out the kind of dominant footho
 Amazon or PayPal built early on. Bigger, in this case, was worse, not better — it's the
 same mistake Chapter 2 already warned against (starting at the outer ring of Figure 2.1
 instead of the center), just at a larger scale and with more money burned proving it.
+Thiel's blunter way of putting the same warning: you don't want to be the fourth online
+pet food company, or the tenth solar panel company, or the hundredth restaurant in Palo
+Alto. The restaurant industry, taken as a whole, is a trillion-dollar market — which
+means a market-size slide alone would make restaurants look like a fantastic business to
+get into, and any restaurant owner who has actually tried to make money running one
+could tell you exactly why that conclusion is wrong.
 
 ### What actually makes a monopoly last
 
 Getting small and dominating it is only half the problem. The other half is durability —
-staying dominant once you've gotten there. Thiel names four characteristics that build a
-durable monopoly, and it's worth being honest that no single one of them is required; the
-best companies usually have more than one.
+staying dominant once you've gotten there. Thiel is explicit that there's no single
+formula for this — the closest he comes to one is an inversion of the opening line of
+*Anna Karenina*: Tolstoy's line is that all happy families are alike, and each unhappy
+family is unhappy in its own way. Thiel's business version runs the other direction —
+every happy (durable, monopoly) company is different, because each one is doing
+something genuinely unique; every unhappy company looks the same, because they all
+failed to escape the sameness that defines real competition. With that said, Thiel does
+name four characteristics that build a durable monopoly, and it's worth being honest
+that no single one of them is required; the best companies usually have more than one.
 
 | Characteristic | What it means | Example |
 |---|---|---|
@@ -170,14 +191,35 @@ best companies usually have more than one.
 | Branding | A perception that gets lodged in people's minds | Real, but Thiel is candid that he doesn't fully understand how it works, and avoids investing in a company on branding alone |
 
 Two of these deserve a further point. **Proprietary technology** needs to keep winning,
-not just win once — disk-drive manufacturers in the 1980s kept out-innovating each other
-by wide margins for over a decade, which was fantastic for consumers and terrible for the
-manufacturers, since none of them ever got to keep the advantage long enough to become
-durably profitable. **Economies of scale** is where software has a genuine structural
+not just win once — disk-drive manufacturers in the 1980s got overtaken by the next
+better drive roughly every two years, in a cycle that ran for the better part of fifteen
+years straight. Fantastic for consumers, who got a dramatically better product every
+couple of years. Terrible for the manufacturers themselves, since none of them ever got
+to hold the advantage long enough to become durably profitable from it. **Economies of
+scale** is where software has a genuine structural
 edge over almost every other kind of business: zero marginal cost combined with the
 ability to reach users instantly, worldwide, means a software company that gets a real
 lead can turn that lead into a durable monopoly faster than almost any other kind of
 company in history.
+
+### Applying the four characteristics to real companies
+
+Asked directly, after his lecture, which of the four characteristics actually applies to
+Google, Thiel's answer touches all four at once: network effects through its
+advertising network, proprietary technology through the original PageRank algorithm
+(though he considers this edge weaker today than it once was), economies of scale from
+the sheer infrastructure needed to index the web, and by now, real brand strength too —
+in his own words, "maybe three and a half out of four."
+
+A second, smaller example makes the small-market strategy concrete in a different
+industry. Palantir, the data-analysis company Thiel co-founded, didn't start by trying
+to serve every possible customer. It started with a single, deliberately narrow
+submarket — the intelligence community — combined with a genuinely different proprietary
+approach: building tools around human-computer collaboration rather than the more
+common paradigm of trying to fully automate analysis and remove the human from the loop
+entirely. Small market, real proprietary angle — the same two-part recipe as PayPal's
+eBay power sellers or Amazon's original bookstore, just in a completely different
+industry.
 
 ### Last mover, not first mover
 
@@ -201,9 +243,12 @@ comes from. Thiel did this exercise for PayPal in March 2001, when the company w
 months old, growing at 100% a year, and using a 30% discount rate on future cash flows.
 The result: roughly three-quarters of PayPal's value at that moment came from cash flows
 the model expected in 2011 and beyond — a full decade out. Run the same kind of analysis
-on almost any fast-growing tech company, Thiel argues, and you get a similar answer: the
-overwhelming majority of the value sits far in the future, not in this year's growth
-number. That has an uncomfortable implication for how outsiders judge these companies:
+on Airbnb, Twitter, Facebook, or nearly any other fast-growing company to come out of Y
+Combinator, Thiel argues, and the math tells the same story at an even more extreme
+ratio: something like 85% of the value sits in cash flows expected in 2024 and beyond —
+more than a decade past the year he gave this lecture. The overwhelming majority of the
+value sits far in the future, not in this year's growth number. That has an
+uncomfortable implication for how outsiders judge these companies:
 **growth is the thing everyone can measure right now, so it gets over-weighted. Whether
 the company will still be around and still be winning in ten years is what actually
 determines the value, and it's much harder to measure — which is exactly why it gets
@@ -212,8 +257,10 @@ under-weighted.**
 ### The history of value that got captured, and value that didn't
 
 Zoom out further, and the X/Y framing from the start of this chapter explains a genuine
-pattern across roughly 250 years of technological and scientific progress: most of it
-created enormous value and captured almost none.
+pattern across roughly 300 years of technological progress — steam engines, railways,
+the telephone, refrigeration, household appliances, the computer, aviation — and a
+closely related 250-year pattern in science: most of it created enormous value and
+captured almost none.
 
 Science, as an institution, is close to a hundred-percent example of this. The
 smartest physicist of the twentieth century works out special and general relativity —

@@ -181,9 +181,12 @@ actually does. The extra length is rarely a sign of a richer idea. It's usually 
 the founders haven't yet figured out what's essential and what isn't.
 
 The gap between the jargon version and the real version is often bigger than founders
-realize:
+realize. None of the following companies actually pitched themselves the "jargon-heavy"
+way in the left column below — this is an illustrative comparison, not a quote from
+any lecture — but the exercise of writing both versions out side by side makes the
+point concrete:
 
-| Company | The jargon-heavy version | The one-sentence version that actually worked |
+| Company | A jargon-heavy version nobody actually used | The one-sentence version that actually worked |
 |---|---|---|
 | Uber | "A peer-to-peer transportation network leveraging mobile technology to disrupt urban mobility" | "Tap a button, get a ride." |
 | Airbnb | "A trust-and-verification marketplace platform for peer-to-peer accommodation sharing" | "Stay in someone's home instead of a hotel." |
@@ -225,8 +228,8 @@ part of life where that skill stops working, because there's no examiner to tric
 
 > There is no boss to trick, how can you trick people, when there is nobody to trick?
 > There are only users and all users care about is whether your software does what they
-> want, right? They're like sharks, sharks are too stupid to fool, it's like meat or no
-> meat.
+> want, right? They're like sharks, sharks are too stupid to fool, you can't wave a red
+> flag and fool it, it's like meat or no meat.
 
 This is also, in Graham's view, exactly what's wrong with the phrase "growth hacks":
 
@@ -241,8 +244,11 @@ was involved in:
 
 > Most people think first of what they want to express or make, then find the audience
 > for their idea. You must work the opposite angle, thinking first of the public. You
-> need to keep your focus on their changing needs, the trends that are washing through
-> them. Beginning with their demand, you create the appropriate supply.
+> need to keep your[^correction] focus on their changing needs, the trends that are
+> washing through them. Beginning with their demand, you create the appropriate supply.
+
+[^correction]: The original transcript reads "you focus," almost certainly a
+transcription slip for "your focus" — corrected here rather than reproduced as an error.
 
 Altman's own read on why this matters: this is the single most common thing missing from
 Y Combinator applications. Founders build the thing they want to build, then go looking
@@ -283,8 +289,9 @@ problems that look strange or premature to everyone else start to look obvious t
 
 Graham's phrase for the same state, borrowed from Paul Buchheit, is to "live in the
 future" — get yourself to wherever technology is moving fastest, and ideas that look
-strangely obvious to you will look prescient to everyone else. His example: a graduate
-student at Harvard in the mid-1990s wrote his own voice-over-IP software, not to start a
+strangely obvious to you will look prescient to everyone else. His example, told to him
+secondhand by two of his own friends, Robert and Trevor: a fellow graduate student of
+theirs at Harvard in the mid-1990s wrote his own voice-over-IP software, not to start a
 company, but because he wanted to talk to his girlfriend in Taiwan without paying
 long-distance rates, and he happened to already understand networks well enough that
 turning voice into packets and sending them over the internet seemed like the obvious
@@ -325,13 +332,15 @@ Not entirely, but it does mean you should be honest about the disadvantage you'r
 on if you build for someone else's problem. Paul Graham makes an important exception in
 the same lecture: a non-technical founder who is a genuine domain expert can be just as
 valuable as the person needing the product themselves. His example is Uber — if one
-founder is a technical person who can write the app, and the other spent years actually
-running a limo business and knows every operational detail of that world, the second
-founder isn't a weaker version of the first. They're solving the "get close to the
-customer" problem a different way: by having already lived inside the customer's
-problem professionally, rather than personally. The rule isn't "you must need it
-yourself." It's "someone on the founding team must deeply understand the people you're
-building for, one way or another."
+founder is an expert in the limo business and the other is technical, the non-technical
+founder would actually end up doing most of the work: recruiting drivers and handling
+everything else specific to running that kind of operation, while the technical founder
+writes what amounts to less than half of what the company actually needs, the app
+itself. The domain expert isn't a weaker version of a technical cofounder. In a business
+this specific, they may be the one carrying more of the load. The rule isn't "you must
+need it yourself." It's "someone on the founding team must deeply understand the people
+you're building for, one way or another" — and in a sufficiently specialized business,
+that person's expertise can matter more than anyone's ability to write code.
 
 **When does a side project actually become a startup?** This matters because Chapter 1's
 whole test — "you can't not do it" — is hard to apply if you can't tell whether what

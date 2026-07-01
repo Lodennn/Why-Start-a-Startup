@@ -115,8 +115,9 @@ at a company full of people like Facebook or Google's early employees is another
 in either environment for years is, in a very literal sense, cofounder-rich in a way that
 a one-off networking event never will be.
 
-A modern illustration of what "already knowing someone" looks like at its most extreme:
-Patrick and John Collison, who founded Stripe, are brothers. That's obviously not a
+A modern illustration of what "already knowing someone" looks like at its most extreme,
+outside anything covered in the original lectures: Patrick and John Collison, who founded
+Stripe, are brothers. That's obviously not a
 formula anyone can copy — you can't manufacture a sibling — but the underlying mechanism
 is exactly the one this section has been describing. By the time they started a company
 together, there was no discovery process left to do. They already knew, in complete and

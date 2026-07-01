@@ -81,8 +81,9 @@ to follow you. Sometimes people depend on you financially. Even when they don't,
 given you the best years of their working life, and you are responsible for what that
 turns out to be worth. Moskovitz said it plainly, describing his own early years at
 Facebook: "I got really unhealthy, I wasn't exercising, I had a lot of anxiety actually
-throughout my back, like almost every six months, when I was twenty-one or twenty-two."
-That is not glamour. That is a 22-year-old with a repeating stress injury.
+throughout my back, like almost every six months, when I was twenty-one or twenty-two,
+which is pretty crazy." That is not glamour. That is a 22-year-old with a repeating
+stress injury.
 
 There's also a problem that's hard to undo, and the glamour story never mentions it. An
 unhappy employee can quit. An unhappy founder mostly can't — not without real cost to the
@@ -316,9 +317,12 @@ student." He argues twenty usually isn't the best age to do this — not because
 founders can't succeed (some clearly do), but because the serendipity you give up by
 succeeding early is a real cost. And it's a cost you never get to see, because if you
 succeed at twenty, you never find out what the other path would have given you. Larry
-Page, in Graham's telling, started running at twenty-five and hasn't stopped since: he
-can't backpack anywhere without it turning into either a state visit or a security
-operation. Graham's line about YC's own successful founders: "it never gets any easier."
+Page, in Graham's telling, started running as fast as he could at twenty-five and hasn't
+stopped to catch his breath since — every day something comes up inside Google that only
+he can deal with, vacation or not. Mark Zuckerberg's version of the same cost: he can't
+backpack around a foreign country the way an ordinary twenty-something might, because any
+trip he takes becomes either a de facto state visit or an exercise in hiding from
+attention. Graham's line about YC's own successful founders: "it never gets any easier."
 The problems change — construction delays on a new London office instead of a broken air
 conditioner in a studio apartment — but the total amount of worry doesn't go down. It may
 go up.
