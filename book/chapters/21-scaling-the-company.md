@@ -85,7 +85,16 @@ pay that inevitably becomes visible and inevitably feels unfair once it does; **
 equity grants**, not just generous grants to the first ten hires (Chapter 5) — a
 healthy, growing company should expect to distribute something like 3 to 5% of its
 equity to employees every year, indefinitely, and needs a real system (not a shared
-spreadsheet) to track it once mistakes in that tracking can cost real money; **a formal
+spreadsheet) to track it once mistakes in that tracking can cost real money. Several
+vesting structures beyond the standard four-year schedule (Chapter 15) are worth
+considering as a company matures: longer, six-year grants for people expected to stay a
+long time; "pyramid" vesting that back-weights a grant so more of it vests in year four
+than year one, as a retention lever; and continuous forward vesting, where an employee's
+unvested grant is automatically topped back up every year to the same number of shares,
+so no one is ever staring at a nearly-fully-vested grant and quietly weighing whether to
+leave. Whichever structure a company picks, it needs a real option-management system, not
+a shared spreadsheet, since Sam Altman has personally seen tracking mistakes at this
+stage cost employees or companies tens of millions of dollars; **a formal
 hiring process**, including a full-time recruiter once the company can actually absorb
 hires at volume — brought on too early, before there's real product-market fit, this
 tends to produce hiring for its own sake rather than hiring for a real need; **announcing
@@ -93,7 +102,10 @@ every offer internally before it goes out**, since someone already at the compan
 frequently knows something useful about a candidate that the hiring manager doesn't; and
 active attention to **diversity**, especially on early engineering teams, where a
 homogeneous first fifteen or twenty hires tends to calcify into a monoculture that's
-difficult and slow to correct later. New compliance requirements — sexual harassment and
+difficult and slow to correct later. One dimension of that diversity worth naming
+directly: immigrant founders are a large and growing share of the startup ecosystem, not
+a marginal case — in one recent Y Combinator batch, Sam Altman noted that 41% of founders
+funded were born outside the United States, across roughly thirty different countries. New compliance requirements — sexual harassment and
 diversity training among them — also kick in at the 50-employee mark in many
 jurisdictions, worth knowing about before it becomes an unpleasant surprise.
 
@@ -144,12 +156,38 @@ are worth locking down around the same time, along with any domains a company ha
 already claimed. A dedicated FP&A (financial planning and analysis) hire, building a real
 financial model of the business, tends to get hired far later than it should — some of
 the most useful models built for fast-growing companies run to well over a thousand
-lines of detail, and the insight that level of modeling produces is available much
-earlier than most founders assume to look for it. The same logic applies to hiring a
+lines of detail. Altman points to Roelof Botha, PayPal's own CFO, as the standard-setting
+example: the top sheet alone of the financial model Botha built for the company ran to
+roughly 1,500 lines, a level of granular detail that let PayPal understand and tune
+levers in the business that most companies never even discover they have. That level of
+insight is available much earlier than most founders assume to look for it, and most
+companies don't hire someone capable of building it until they're hundreds of employees
+in — worth doing earlier than that. The same logic applies to hiring a
 dedicated, full-time fundraiser once a company is past its Series B — a specialist
 focused entirely on the next round tends to produce a meaningfully better outcome, at
 lower cost, than treating each future raise as an ad hoc process layered on top of
 everything else a founder is already doing.
+
+**FF stock** — a special class of founder stock, structured so founders can sell some of
+it in a later financing round without distorting the valuation of the company's regular
+common stock — is worth knowing about, mostly so a founder recognizes it as a trap early
+on rather than a perk. Setting it up right at company formation, when the company is
+still worth very little, became such a recognizable pattern (popularized heavily enough
+by Founders Fund that the "FF" name stuck) that investors learned to read a founder
+pushing for it at the seed stage as a bad signal — a sign of focus on personal payout
+before the company had proven anything, which correlated with those companies failing
+more often. Most founders don't actually want to sell any stock until the company is
+worth close to a billion dollars regardless; the safe time to set FF stock up is later,
+once the business is already working, typically around the Series B, so it can be sold
+two to four years down the road without ever having sent the wrong signal early on.
+
+Tax structuring is worth a founder's attention around this same stage too, even though
+it's a genuinely unglamorous topic. One concrete example Altman cites: assigning a
+company's IP to a corporate entity in Ireland, which then licenses it back to the U.S.
+parent, can eliminate corporate tax on the licensed IP — a structure that has to be set
+up relatively early, since it stops being available once a company is large and public,
+and one that can become a real competitive disadvantage against competitors who did set
+it up early, once everyone involved is a large public company and it's too late to change.
 
 ### Founder psychology gets worse, not better, and that's the actual reason companies die
 

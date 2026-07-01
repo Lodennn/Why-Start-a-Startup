@@ -157,29 +157,25 @@ round happens. Here's the mechanic worked through with real numbers:
 
 The dilution this produces is easy to underestimate if you don't run the numbers in
 advance. Suppose a company raises $2 million across several SAFEs, all with a $6 million
-cap. When those SAFEs convert, their holders will collectively own roughly 25% of the
-company (the $2 million divided by the $6 million cap, roughly). If the same priced
-round that triggers this conversion also brings in new investors who want to own 20% of
-the company themselves, the founders have now given up close to 45% of the company in a
-single round — a number that's easy to miss if you only look at the priced round's
-headline terms and forget to add back everything that was already promised through
-earlier SAFEs.
+cap. Under the cap convention this course described — where the cap is treated as a
+*pre-money* figure, meaning the money being raised gets added on top of it — the
+resulting post-money value at conversion is $6 million plus the $2 million raised,
+or $8 million, and the SAFE holders collectively own $2 million ÷ $8 million: roughly
+**25%** of the company once those SAFEs convert (not simply $2 million divided by the $6
+million cap, which is a different, larger number — the extra step of adding the raise
+to the cap first is exactly the calculation a pre-money-style cap requires, and exactly
+the calculation the newer post-money SAFE format was designed to make unnecessary). If
+the same priced round that triggers this conversion also brings in new investors who
+want to own 20% of the company themselves, the founders have now given up close to 45%
+of the company in a single round — a number that's easy to miss if you only look at the
+priced round's headline terms and forget to add back everything that was already
+promised through earlier SAFEs.
 
-**Table: Building a cap table across three rounds (simplified, illustrative numbers)**
-
-| Stage | New money raised | Approx. dilution this round | Founders' approximate remaining ownership |
-|---|---|---|---|
-| At founding | — | — | 100% |
-| Seed (SAFEs, $2M on a $6M cap) | $2M | ~25% (converts later) | ~75% (on paper, until conversion) |
-| Series A ($20M valuation, new investors want 20%, seed SAFEs convert) | new capital + prior SAFE conversion | ~20% (new) + ~25% (converting SAFEs) | Founders now own roughly 55% combined |
-| Series B (new investors want 15–20%) | additional capital | ~15–20% | Founders now own roughly 40–45% combined |
-
-The exact numbers vary by deal, and employee option pools (typically another 10–20% set
-aside for future hires) compress founder ownership further at each stage. The point of
-running this table before signing anything isn't to avoid dilution — some dilution at
-every round is normal and expected, the price of the capital that lets the company grow
-at all. It's to make sure a founder actually sees the cumulative effect in advance,
-rather than being surprised by it a few rounds later.
+Appendix A works through a complete, multi-round version of this same math in detail —
+founding through a Series A, with actual share counts — using the cleaner post-money
+SAFE convention described in the note below, specifically so the arithmetic at each step
+stays checkable rather than compounding into the kind of easy-to-miss error this section
+just walked through by hand.
 
 > **A note on how this has evolved:** the mechanics above reflect the standard structure
 > at the time this course was taught. Since then, Y Combinator introduced an updated,

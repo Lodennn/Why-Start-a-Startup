@@ -73,6 +73,11 @@ minority shareholders when a majority decides to sell the company. (Appendix B)
 customer count and price point (few customers at a high price vs. many customers at a
 low price), each requiring a different sales motion. (Ch. 16)
 
+**FF stock** — a special class of founder stock structured so founders can sell some of
+it in a later financing round without distorting the common stock valuation. Setting it
+up at company formation reads as a bad signal to investors; the safe time is later, once
+the business is already working. (Ch. 21)
+
 **Four Horsemen** — John Gottman's four relationship-ending behaviors (criticism,
 contempt, defensiveness, stonewalling), applied in this book to customer support.
 Stonewalling — simply not responding — is identified as the most damaging to a startup.

@@ -56,25 +56,33 @@ word of mouth, driven by a product good enough that people talked about it anywa
 is a reminder that virality is one path to growth, not the only one, and the retention
 work from Chapter 10 is what made the word-of-mouth version possible at all.
 
-The K-factor calculation itself compounds a chain of conversion rates: of everyone who
+The K-factor calculation itself compounds a chain of conversion rates — a framework
+credited to Ed, who ran growth at Uber after doing the same job at Facebook, extending
+Parker's payload/conversion/frequency model into a concrete funnel: of everyone who
 imports their contacts, how many send invites; of those invited, how many click; of
 those who click, how many sign up; of those who sign up, how many go on to import their
-own contacts and repeat the cycle. A cautionary case worth naming directly: some
-products, like the short-video app Viddy, pushed their K-factor comfortably above 1
-through aggressive prompts and still collapsed, because none of that viral growth was
-backed by real retention underneath it. Virality without retention doesn't just
-under-deliver — it can actively mislead a team into believing they've solved a problem
-they haven't touched.
+own contacts and repeat the cycle. Worked through with real numbers: if 100 people get an
+invite per person who imports their contacts, and 10% of those invited click, and 50% of
+those who click sign up, and only 10–20% of new signups go on to import their own
+contacts, the resulting K-factor lands somewhere around 0.5–1.0 — not quite viral on its
+own. A cautionary case worth naming directly: some products, like the short-video app
+Viddy, pushed their K-factor comfortably above 1 through aggressive prompts and still
+collapsed, because none of that viral growth was backed by real retention underneath it.
+Virality without retention doesn't just under-deliver — it can actively mislead a team
+into believing they've solved a problem they haven't touched.
 
 ### Search: the wrong keyword, and the power of one navigation change
 
 Search engine optimization breaks into three parts worth separating clearly. First,
 **keyword research** — and getting this wrong is a specific, avoidable failure mode.
 Schultz describes spending a full year optimizing an early cocktail website to rank for
-"cocktail making," dominating that exact term completely, and discovering that almost
-nobody actually searched for it. The much larger search volume was for "cocktail
-recipes" (or "drink recipes" in the U.S.) — a completely different phrase describing
-functionally the same intent. Winning the wrong keyword perfectly is still losing.
+"cocktail making," dominating that exact term completely — only to discover that, in the
+UK market he was targeting, "cocktail making" was searched about **500 times a month**.
+Ranking first for it delivered roughly **400 visitors a month**. The much larger search
+volume was for "cocktail recipes" (or "drink recipes" in the U.S.) — a completely
+different phrase describing functionally the same intent. Winning the wrong keyword
+perfectly is still losing, and the gap between those two numbers is the whole lesson:
+a year of effort had bought a rounding error of traffic.
 
 Second, **links and authority** — the mechanism underneath most of what Google's
 ranking algorithm rewards. The clearest illustration of how much this can matter: early
@@ -138,11 +146,13 @@ whether paid acquisition is a sound investment or a leaky bucket:
 >
 > **Profit per customer** = CLV (customer lifetime value) − CAC
 
-Suppose an ad costs $2 per click, and 4% of the people who click go on to sign up. CAC
-is $2 ÷ 0.04 = **$50** per acquired customer. If that customer is worth $300 to the
-business over their first year (their CLV), the math looks straightforwardly good:
-$300 − $50 = $250 in profit per customer acquired. Multiply that across enough customers
-and paid acquisition looks like free money.
+Here is an illustrative example to make the formula concrete — the dollar figures below
+are invented for demonstration, not numbers Cheung gave in her lecture, though the two
+formulas themselves are hers. Suppose an ad costs $2 per click, and 4% of the people who
+click go on to sign up. CAC is $2 ÷ 0.04 = **$50** per acquired customer. If that
+customer is worth $300 to the business over their first year (their CLV), the math looks
+straightforwardly good: $300 − $50 = $250 in profit per customer acquired. Multiply that
+across enough customers and paid acquisition looks like free money.
 
 Two complications make this less simple in practice, and both are worth taking
 seriously before scaling a paid channel. First, **CAC and CLV both vary enormously by
@@ -259,7 +269,13 @@ spending more on the channel itself.
 ## Further Reading
 
 - Alex Schultz's original CS183B lecture covers additional detail on Facebook's
-  international growth strategy and its internal translation tooling.
+  international growth strategy and its internal translation tooling, plus a "mousetrap"
+  analogy for why a growth mechanism has to actually work before it's worth amplifying,
+  and a reference to Ben Silverman's early growth work at Pinterest.
+- David Ogilvy, *Ogilvy on Advertising* — recommended in Schultz's lecture as a classic
+  primer on the persuasion side of paid and messaging channels.
+- Adam Penenberg, *Viral Loop* — recommended in Schultz's lecture for a longer history of
+  viral growth mechanics across several companies.
 - Adora Cheung's lecture (also covered in Chapter 7) is the source of the
   sticky/viral/paid growth taxonomy this chapter builds on.
 - Chapter 13 returns to unit economics from the fundraising side — investors will ask

@@ -17,8 +17,10 @@ Here's the detail worth sitting with: if you had asked people in 2010 whether th
 wanted a $199 wireless speaker for their phone, when a phone already had a speaker built
 in for free, almost nobody would have said yes. That's not a hypothetical — Rahman is
 direct that this is exactly what would have happened, and it's the same trap this book
-has already named twice: Steve Jobs didn't pitch the iPod as "a digital portable music
-player," he pitched "a thousand songs in your pocket." Emmett Shear's Twitch interviews
+has already named twice. Rahman's own illustration of the right way to ask: don't ask
+someone "do you want a digital portable music player," ask "if you could put a thousand
+songs in your pocket and take them anywhere, would that be cool?" Emmett Shear's Twitch
+interviews
 (Chapter 7) don't ask people if they'd use a proposed feature, because the honest-
 sounding answer is nearly worthless. Hardware runs into this same problem, just with
 higher stakes, because a bad guess costs months of tooling and manufacturing, not a

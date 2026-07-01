@@ -57,8 +57,16 @@ gap.
 Advice to "stay the course" and advice to "listen to the data and pivot" are both
 correct, and the way to tell which one applies right now is to check whether your
 confidence in the underlying thesis is rising or falling — not whether things currently
-feel hard, since things feeling hard is close to a constant in every startup regardless
-of whether the thesis is actually working.
+feel good. Hoffman offers his own company as the example: at PayPal in August 2000, the
+company was bringing in $12 million, the expense curve was exponentiating, there was no
+revenue, and confidence in the thesis was genuinely decreasing — "a valley in the shadows
+moment," in Hoffman's phrase. A decreasing-confidence reading doesn't automatically mean
+quit; it means the immediate job becomes figuring out what specific action would restore
+confidence, rather than either grimly persisting or panicking. PayPal, LinkedIn, and
+Airbnb, in Hoffman's own account, all had months that looked exactly like that one — which
+is itself the point: whether things currently look easy or feel hard isn't the signal to
+watch, since things feeling hard is close to a constant in every startup regardless of
+whether the thesis is actually working.
 
 **Belief, or fear.** Belief is what keeps you moving forward through the difficulty this
 book's opening chapter already described. Fear — in the sense of genuine, honest
@@ -175,6 +183,18 @@ visibly change specific decisions in response to specific new evidence. Someone 
 performing adaptability will nod, ask thoughtful-sounding questions, and then proceed
 exactly as they would have anyway. The tell isn't in how someone talks about being open
 to feedback — it's in whether their actual decisions move afterward.
+
+Hoffman's own name for the trait he's actually screening for, when he checks references,
+is **"infinite learning curve"** — since every entrepreneurial situation is new and
+unique to some degree, what matters isn't a founder's current skill set but whether their
+learning ever stops breaking down, or whether ego gets in the way of adapting once
+something stops working. It's also, by his own account, domain-specific rather than
+universal: he's blunt that the same person can be an excellent fit for one kind of
+company and a poor one for another. He tells a story on himself to make the point: a
+friend who worked with him at his first startup, Social Net, once told him directly that
+he'd never hire Hoffman to manage a McDonald's — and Hoffman's own reaction was that he
+agreed completely, since operational management of that specific kind was never his
+skill set to begin with.
 
 **Is Hoffman's "founders have no balance" claim something every reader needs to
 accept?** It's worth stating plainly that this is a strong, contested personal view, not

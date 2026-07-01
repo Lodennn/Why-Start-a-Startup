@@ -66,11 +66,17 @@ partner.
 
 Reid Hoffman, who co-founded LinkedIn and has invested in dozens of startups since,
 frames the reason teams beat solo founders in a way worth stating directly: it explodes
-the myth of the "super founder." Popular imagination pictures a founder as someone who
-can do everything — product, fundraising, sales, management, strategy — at a world-class
-level, alone. In reality, nobody has that full range of skills, and a company that
-depends on one person having it is fragile in a way that isn't obvious until something
-goes wrong in the exact area that person is weak. Two or three founders, chosen well,
+the myth of the "super founder." Popular imagination pictures a founder — the Steve Jobs,
+Bill Gates, Elon Musk, Mark Zuckerberg, Jeff Bezos image — as someone who can do
+everything — product, fundraising, sales, management, strategy — at a world-class level,
+alone: a kind of panopticon of skills, watching and excelling at every function of the
+company at once. Hoffman is candid that he once bought into this image himself, recalling
+an article early in his own career that called Bill Gates "smarter than Einstein" — a
+claim, he points out, that Gates himself probably wouldn't want standing next to his name,
+and a symptom of exactly this fantasy: the founder as someone who can jump over tall
+buildings in a single bound. In reality, nobody has that full range of skills, and a
+company that depends on one person having it is fragile in a way that isn't obvious until
+something goes wrong in the exact area that person is weak. Two or three founders, chosen well,
 let you cover each other's gaps and split a genuinely superhuman set of demands across
 real, ordinary humans. This is also, not coincidentally, the same reason Chapter 1 spent
 so much time debunking the myth of the founder as a lone, glamorous decision-maker —

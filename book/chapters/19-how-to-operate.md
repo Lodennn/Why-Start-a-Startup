@@ -142,14 +142,31 @@ Sharing real information broadly — company metrics, board meeting takeaways, n
 any meeting involving more than two people — helps a growing team stay aligned without
 every person needing to be in every room. Chapter 6 already covered how far this can be
 pushed and what it costs to sustain (Stripe's own transparency bet, and the real tooling
-investment it required once the company grew past its first few dozen people); this
-chapter's addition is a specific discipline for the metrics themselves: **pair every
+investment it required once the company grew past its first few dozen people). Rabois
+offers a compensation-specific version of the same idea, drawn from how Steve Jobs ran
+pay at NeXT: rather than negotiating salary individually with every hire, NeXT paid in
+simple, public bands by experience level — a flat $85,000 for the "low" band, a flat
+$130,000 for the "high" band, adjusted for inflation from the 1980s figures Jobs actually
+used — so that everyone at a given level knew exactly what everyone else at that level
+made, and disputes over individual negotiating leverage simply stopped being possible.
+This chapter's addition is a specific discipline for the metrics themselves: **pair every
 metric with an opposing one**, so that optimizing the first one in isolation can't
 quietly damage something else. A fraud-prevention team measured only on lowering the
 fraud rate will, predictably, start treating every customer as a suspect — which is why
 it needs to be measured on its false-positive rate at the same time. A recruiting team
 measured only on hiring volume will lower the bar to hit the number — which is why
 interview and hire quality need to be tracked alongside volume, not after the fact.
+
+Physical space carries the same signal, in Rabois's account. Every conference room at
+Square was built with glass walls deliberately: closed-door rooms invite people to
+speculate darkly about what's being decided behind them, while a visibly ordinary meeting
+going on behind glass rarely worries anyone. Rabois also argues, more provocatively, that
+a startup should never share office space with other companies, however tempting the cost
+savings look early on — his reasoning leans on something he attributes to Peter Thiel,
+that "every good startup is a cult," in the specific sense that a team needs to genuinely
+believe it has a uniquely better way of doing things than anyone else in the world, and
+that belief is much harder to sustain physically surrounded by other companies doing
+things their own, different way.
 
 A related discipline: pay close attention to **anomalies** in your own data, rather than
 only the metrics you already expected to matter. PayPal's own core market — power
@@ -179,6 +196,59 @@ company gives its own employees fall into this same category — not because any
 them is individually important, but because a bad lunch or an ugly office becomes
 something people quietly gossip about instead of doing focused, creative work, which is a
 real and measurable cost even though it never shows up as a line item.
+
+Rabois offers a related story about how legible these small signals are from the
+outside, too. Roelof Botha of Sequoia Capital led YouTube's Series A when it was still
+far from an obviously successful bet, and at a board meeting later told Rabois why his
+confidence in the company kept climbing: every time he visited another portfolio
+company's office, he noticed half the room quietly watching YouTube during lunch. That
+one small, unglamorous observation was, in Botha's own account, a genuinely good signal
+— and Rabois's broader point is that these details are legible enough that an experienced
+investor can often tell whether a company's culture is working within moments of walking
+into its office.
+
+### Time allocation: the calendar audit, and five to seven direct reports
+
+Rabois's diagnostic for founders and new managers who feel like they're struggling in the
+role is deceptively simple: do a **calendar audit**. Ask them to write down, from memory,
+what they believe their real priorities are and roughly what share of their time each one
+should take — and then pull up their actual calendar and check whether the two match.
+Rabois's experience running this exercise repeatedly is that they almost never do:
+recruiting, in particular, is the priority founders most often claim matters most while
+consistently being the smallest block of actual time on their calendar. There's no
+software that does this well; it has to be done by hand, hour by hour, which is exactly
+why most people never bother checking.
+
+The same audit connects to a specific structural rule for anyone managing people
+directly: hold a one-on-one with each direct report roughly every one to two weeks, an
+idea that traces back to Andy Grove's 1982 *High Output Management* and was considered
+radical at the time. The reason a manager shouldn't have more than **five to seven direct
+reports** follows directly from that cadence — it's simply the number of one-on-ones that
+can actually fit into a single manager's calendar in a given week alongside everything
+else the job requires. The agenda for each one-on-one should be set by the employee, not
+the manager, since the meeting exists mainly for their benefit; sending a few bullet
+points in advance gives the manager time to think rather than improvising an answer on
+the spot.
+
+### Promote your best individual performer, not your best manager — and get a mentor, not a boss
+
+Rabois's account of PayPal's own promotion philosophy, credited to Peter Thiel, cuts
+against a common instinct: rather than looking for people who are naturally good at
+managing others, PayPal deliberately promoted whoever was the single best individual
+performer in a given discipline — the best engineer became VP of Engineering, the best
+designer became VP of Design — and let them learn the management side of the job
+afterward. The logic is about morale as much as skill: nobody resents reporting to
+someone who is demonstrably better than they are at the actual craft, in a way people
+often do resent reporting to someone who is only good at managing people and not at the
+underlying work itself.
+
+Making that transition from individual contributor to manager is still genuinely hard,
+and Rabois is direct that some of it can only be learned by doing, the way nobody learns
+to play an instrument purely from reading about it. His specific advice for surviving the
+transition: find a **mentor**, not a boss, to work through it with — someone who has
+managed before and can focus purely on your own development, since a boss necessarily
+carries other, more complicated objectives (like how much the team is shipping) that a
+dedicated mentor doesn't have to weigh at the same time.
 
 ## Common Mistakes
 
@@ -254,6 +324,12 @@ would need to be true before you'd feel comfortable handing it off.
 - Small operational details — how the phone gets answered, what people eat, the quality
   of an internal tool — are not beneath a founder's attention; they set the standard for
   everything else the company does.
+- Run a calendar audit against your stated priorities before trusting your own sense of
+  where your time goes, and cap direct reports at five to seven so real weekly or
+  biweekly one-on-ones actually fit.
+- Promote your best individual performer into management rather than the person who's
+  merely best at managing, and find a mentor rather than relying only on your boss to
+  develop as a manager yourself.
 
 ## Exercises
 

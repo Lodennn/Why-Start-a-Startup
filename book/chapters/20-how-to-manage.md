@@ -59,16 +59,19 @@ choice, and it's the one most first-time founders default to.
 
 Horowitz's question, the one that reframes the whole decision: what percentage of the
 company does this person actually own? In the real conversation this chapter draws from,
-the answer was 1.5% — an amount that dwarfs what a strong individual engineer at the same
-company might hold (a tenth or two-tenths of a percent). Left untouched, a demotion
-without any change to that equity stake sends an unavoidable message to every other
-employee watching: real effort, even without real results, is enough to keep a
-disproportionate ownership stake. That's a company-wide statement about what your equity
-actually requires — genuine results, or merely genuine effort — made through a single,
-seemingly private personnel decision. There's a cost on the other side too, worth being
-honest about: the demoted executive, now reporting to someone hired above them, has to
-work alongside people who remember them as the boss, which is its own difficult,
-often unworkable dynamic. Neither option here is comfortable. The point isn't that
+the executive in question had been Head of Sales, and the answer was 1.5% — an amount
+that dwarfs what a strong individual engineer at the same company might hold (a tenth or
+two-tenths of a percent). Left untouched, a demotion without any change to that equity
+stake sends an unavoidable message to every other employee watching: real effort, even
+without real results, is enough to keep a disproportionate ownership stake. That's a
+company-wide statement about what your equity actually requires — genuine results, or
+merely genuine effort — made through a single, seemingly private personnel decision.
+There's a cost on the other side too, worth being honest about: the demoted executive,
+moved from Head of Sales down to a Regional Manager role and now reporting to someone
+hired above them, has to work alongside people who remember them as the boss — a
+dynamic Horowitz describes bluntly through the demoted executive's own likely reaction:
+"I knew you when you were Head of Sales, now you're the Regional Manager and you're
+telling me what to do?" — which is its own difficult, often unworkable dynamic. Neither option here is comfortable. The point isn't that
 demotion is always wrong — it's that the equity question has to be part of the decision
 explicitly, not skipped because the personnel conversation already feels hard enough.
 

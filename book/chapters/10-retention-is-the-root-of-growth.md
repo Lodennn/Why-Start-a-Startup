@@ -54,9 +54,9 @@ Applied to a real product: if there are roughly 2 billion people online worldwid
 Facebook has around 1.3 billion active users, that ratio alone tells you Facebook has
 captured a very large share of everyone who could plausibly use it — a signal, on its
 own, that its retention must be extraordinarily strong. The same trick works for
-WhatsApp against the global smartphone population, or Amazon against the population of
-its home market. None of these give you an exact figure. All of them tell you whether
-you're in the right neighborhood.
+WhatsApp, which had around 600 million active users, against the global smartphone
+population, or Amazon against the population of its home market. None of these give you
+an exact figure. All of them tell you whether you're in the right neighborhood.
 
 The right neighborhood, importantly, is different for every category. Retaining 20–30%
 of users on a monthly basis is a genuinely strong result for an e-commerce business. That
@@ -84,7 +84,11 @@ larger, more flattering number of everyone who'd ever signed up. WhatsApp measur
 messages sent. Airbnb measured nights booked. eBay measured Gross Merchandise
 Volume — the total value of goods moving through the platform — rather than eBay's own
 revenue, since GMV was the number that actually captured how much commerce the platform
-was enabling.
+was enabling: eBay's GMV consistently ran at roughly **10 times** its reported revenue,
+so a metric anchored to revenue alone would have badly understated the business. eBay's
+own leaders — Pierre Omidyar, Meg Whitman, and John Donahoe, across their respective
+tenures — consistently pointed back to that GMV figure rather than letting revenue stand
+in for it.
 
 The reason a single, clearly chosen metric matters this much connects back to an idea
 this book already covered from a completely different angle: Patrick Collison's

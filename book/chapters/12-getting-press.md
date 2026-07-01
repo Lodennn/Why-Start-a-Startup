@@ -53,9 +53,11 @@ pieces written by the founder for an outlet.
 A story also doesn't need to be original in an absolute sense — it needs to be, in Kan's
 phrase, "original enough." Being the first company in a specific, narrow category to hit
 a milestone gets covered; being the second gets ignored, even if the second company is
-otherwise just as interesting. The first video game console to raise a large amount of
-money on Kickstarter was genuine news, despite many other projects having raised
-comparable amounts on Kickstarter before it in different categories — the specific
+otherwise just as interesting. Kan's own contrast makes the point sharply: you don't want
+to be the second company to raise $5 million on Kickstarter, because the first one gets
+all the news and the second gets none of it. The first video game console to raise $10
+million on Kickstarter, by contrast, was genuine news, despite many other projects having
+raised comparable amounts on Kickstarter before it in different categories — the specific
 combination was new enough to count as a real story.
 
 ### Treat it like a sales funnel, and get the introduction from someone else's success
@@ -141,9 +143,14 @@ did, entirely organically. Twitch's actual contribution was making sure the grou
 was already in place: enough prior, smaller press coverage that when a major outlet like
 the BBC went looking for context on this strange new internet phenomenon, there was
 already a trail of earlier stories to draw on, and a company ready and available to talk
-to reporters and suggest natural follow-up angles as the story kept developing. The
-company didn't manufacture the moment. It had done the unglamorous relationship-building
-work in advance that let it capitalize on a moment it didn't create.
+to reporters and suggest natural follow-up angles as the story kept developing. Twitch
+Plays Pokémon itself drew roughly 100,000 people watching at once at its peak, and the
+relationship-building paid off again on the follow-up: when the community moved on to
+play through "Crystal," the next Pokémon game, Twitch already had the press contacts in
+place to turn that into a second round of coverage rather than letting the story die
+after its first spike. The company didn't manufacture the moment. It had done the
+unglamorous relationship-building work in advance that let it capitalize on a moment it
+didn't create.
 
 ## Common Mistakes
 

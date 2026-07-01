@@ -1,6 +1,19 @@
 # Chapter 9 — Doing Things That Don't Scale
 
-Stanley Tang and his cofounders spent an afternoon building a website called
+DoorDash didn't begin with an idea about delivery. It began in a macaroon store. During
+his junior year at Stanford, Stanley Tang was interviewing small business owners about an
+entirely different prototype he was working on, and sat down with Chloe, the owner of
+Chantal Guillon, a macaroon store in Palo Alto, mostly to get feedback on that unrelated
+project. Chloe brought up delivery on her own, and pulled out what Tang describes as "a
+really really thick booklet" — page after page of delivery orders she'd had to turn down,
+because she had no drivers and no way to fulfill them herself without personally
+delivering every one. Tang and his cofounders followed that single conversation outward:
+over the next few weeks, they talked to roughly 150 to 200 small business owners, and
+heard some version of the same complaint from almost all of them — no delivery
+infrastructure existed, and it was a real, painful gap. That was the moment the idea
+turned from a hunch into a hypothesis worth testing.
+
+Testing it meant Tang and his cofounders spent an afternoon building a website called
 PaloAltoDelivery.com. It had no backend, no driver algorithm, and no real infrastructure
 of any kind. It was a single ugly page listing PDF menus they'd copied from local
 restaurants, with one phone number at the bottom — their own personal cell phone. They
@@ -65,7 +78,7 @@ personally.
 None of this was a considered strategy. It was whatever actually got food from a phone
 call to a customer's door that same day. Tang offers one moment from this period that
 captures its texture well: after wrapping up a meeting with a restaurant partner, the
-team wanted to try a new ice cream shop that had just opened nearby. A text came in
+team wanted to try a new ice cream shop called Cream that had just opened nearby. A text came in
 asking for more drivers on the road immediately. The decision took about ten seconds —
 they went to deliver, not to get ice cream — and Tang describes it as exactly the kind
 of tradeoff this entire stage of a company runs on: do the unglamorous thing now, on the
@@ -109,7 +122,8 @@ customers.
 
 There are three specific channels for this kind of contact worth naming: running support
 yourself in the early days (Williams and his cofounder handled all of Teespring's
-support personally until the company was doing well over $100,000 a month in revenue),
+support personally until the company was doing about $130,000–$140,000 a month in
+revenue),
 proactively reaching out to customers who've already left rather than only focusing on
 new ones, and actively monitoring social media and online communities for both praise
 and complaints. The asymmetry between the last two matters: a single, visibly unresolved
@@ -118,9 +132,12 @@ louder and more memorable than nine quiet, satisfied customers.
 
 The instinct when something goes wrong — a botched order, a mistake affecting a large
 share of a month's revenue — is to minimize it, or explain it away as only partially
-wrong. Teespring's own experience was the opposite lesson: customers who started out the
-most frustrated by a real mistake, once that mistake was made right without excuses,
-frequently became the company's longest-term and most vocal champions. Making a real
+wrong. Teespring had real stretches early on where a bulk order came out with the wrong
+colors or the wrong size, wrong enough that the ruined order alone amounted to half of
+the company's entire GMV for that month. Teespring's own experience was the opposite
+lesson: customers who started out the most frustrated by a real mistake, once that
+mistake was made right without excuses, frequently became the company's longest-term and
+most vocal champions. Making a real
 mistake fully right, rather than defending it, is one of the more reliable ways to create
 a champion out of someone who had every reason to become a detractor instead.
 
