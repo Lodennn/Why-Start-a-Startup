@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "book-site",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["/Users/khalednasser/Documents/Lodenn/how-to-start-a-startup/book/site/serve.js"],
+      "port": 8743
+    }
+  ]
+}
