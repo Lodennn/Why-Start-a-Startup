@@ -1,5 +1,3 @@
-*Status: Finalized*
-
 # Chapter 6 — Designing Company Culture
 
 In the fall of 2008, Airbnb had almost no revenue, no real traction, and founders who

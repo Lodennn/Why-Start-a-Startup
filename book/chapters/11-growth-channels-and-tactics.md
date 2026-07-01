@@ -1,5 +1,3 @@
-*Status: Finalized*
-
 # Chapter 11 — Growth Channels and Tactics
 
 When Hotmail launched, several well-funded competitors were already running television

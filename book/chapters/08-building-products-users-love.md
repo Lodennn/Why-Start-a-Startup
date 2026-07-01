@@ -1,5 +1,3 @@
-*Status: Finalized*
-
 # Chapter 8 — Building Products Users Love
 
 Wufoo raised a total of $118,000 before it was acquired by SurveyMonkey in 2011. The
@@ -106,7 +104,7 @@ work, and delegate them away from the people who actually built the product as s
 possible.
 
 SDD reverses that instinct on purpose: everyone on the team, including the founders and
-engineers, does real customer support shifts. Paul English, a co-founder of Kayak,
+engineers, does real customer support shifts. Paul English, a cofounder of Kayak,
 installed a physical red telephone in the middle of the engineering floor that rang
 directly with customer support calls. When someone questioned paying skilled engineers
 a high salary to occasionally answer a phone, English's answer was that after the second

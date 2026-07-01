@@ -1,5 +1,3 @@
-*Status: Finalized*
-
 # Chapter 21 — Scaling the Company
 
 Sam Altman describes a test he runs whenever he visits a company that's starting to

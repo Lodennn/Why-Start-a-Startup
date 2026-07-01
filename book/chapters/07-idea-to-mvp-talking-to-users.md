@@ -1,5 +1,3 @@
-*Status: Finalized*
-
 # Chapter 7 — From Idea to MVP: Talking to Users
 
 Adora Cheung's first real company wasn't Homejoy. It was Pathjoy, founded with her

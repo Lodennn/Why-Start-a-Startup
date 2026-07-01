@@ -1,5 +1,3 @@
-*Status: Finalized*
-
 # Chapter 12 — Getting Press
 
 PayPal was in the news for freezing merchant accounts without much explanation, and

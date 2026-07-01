@@ -1,14 +1,12 @@
-*Status: Finalized*
-
 # Chapter 9 — Doing Things That Don't Scale
 
-Stanley Tang and his co-founders spent an afternoon building a website called
+Stanley Tang and his cofounders spent an afternoon building a website called
 PaloAltoDelivery.com. It had no backend, no driver algorithm, and no real infrastructure
 of any kind. It was a single ugly page listing PDF menus they'd copied from local
 restaurants, with one phone number at the bottom — their own personal cell phone. They
 launched it without expecting much of anything.
 
-Someone called. They wanted Thai food. Tang and his co-founder got in a car, bought the
+Someone called. They wanted Thai food. Tang and his cofounder got in a car, bought the
 food, and delivered it themselves to a stranger on Alpine Road, who turned out to be the
 author of a book called *Weed the People*. It was, in Tang's own words, the best and
 worst delivery they could have asked for. The next day, two more calls came in. Then
@@ -40,7 +38,7 @@ embarrassing, or beneath the company you're trying to look like.
 ### Test the hypothesis before you build anything real
 
 DoorDash's own origin makes the case better than any abstract advice could: before
-writing a single line of real infrastructure, Tang and his co-founders wanted to know
+writing a single line of real infrastructure, Tang and his cofounders wanted to know
 whether people would actually pay for restaurant delivery in Palo Alto at all. Rather
 than guess, or research it, they built the cheapest possible real test — a landing page
 with a phone number — and let actual behavior answer the question. No drivers were
@@ -55,13 +53,13 @@ enough that the answer came back in days instead of months.
 ### Hack the operations together with whatever's already on hand
 
 Once real orders started arriving, DoorDash's actual operations ran on tools that were
-never built to run a business. Tang and his co-founders were the delivery drivers
+never built to run a business. Tang and his cofounders were the delivery drivers
 themselves, showing up between classes. There was no dispatch software — driver
 locations were tracked using Apple's Find My Friends, an app built for keeping tabs on
 your friends, not managing a delivery fleet. Orders were logged in a shared Google Doc.
 Payments ran through Square, and the volume of small, rapid transactions grew fast
 enough that Square's own systems flagged the account for suspected money laundering — a
-problem resolved only because one of the co-founders happened to know people at Square
+problem resolved only because one of the cofounders happened to know people at Square
 personally.
 
 None of this was a considered strategy. It was whatever actually got food from a phone
@@ -110,7 +108,7 @@ but because it was the only way to actually understand what was breaking for rea
 customers.
 
 There are three specific channels for this kind of contact worth naming: running support
-yourself in the early days (Williams and his co-founder handled all of Teespring's
+yourself in the early days (Williams and his cofounder handled all of Teespring's
 support personally until the company was doing well over $100,000 a month in revenue),
 proactively reaching out to customers who've already left rather than only focusing on
 new ones, and actively monitoring social media and online communities for both praise

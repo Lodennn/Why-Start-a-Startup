@@ -1,5 +1,3 @@
-*Status: Finalized*
-
 # Chapter 16 — Selling: First Customer to Enterprise Deal
 
 Aaron Levie, who built Box into a company serving hundreds of thousands of businesses,

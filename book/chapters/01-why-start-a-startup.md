@@ -1,5 +1,3 @@
-*Status: Finalized*
-
 # Chapter 1 — Why Start a Startup
 
 There is a scene near the start of the movie *The Social Network*. Mark Zuckerberg's
@@ -219,7 +217,7 @@ beat the team that actually should have built it, and the world ends up with a w
 version of the thing it needed. That's not a hypothetical to feel bad about later. It's a
 reason to be honest with yourself about fit before you start.
 
-Moskovitz's own example is Asana. He and his co-founder Justin Rosenstein were, in his
+Moskovitz's own example is Asana. He and his cofounder Justin Rosenstein were, in his
 words, "reluctant entrepreneurs" — they were already working at Facebook on something
 genuinely important. At night, after a full day at their real jobs, they kept building an
 internal task-management tool, because they could see it solving something real inside
@@ -232,7 +230,7 @@ what Moskovitz means when he says the idea was "beating itself out of our chests
 specific, checkable feeling, not just a stand-in for enthusiasm.
 
 The same pattern shows up outside this course's original 2014 lecture hall, too. Melanie
-Perkins, co-founder of the design tool Canva, spent about three years pitching investors
+Perkins, cofounder of the design tool Canva, spent about three years pitching investors
 before one finally said yes — by her own account, more than a hundred said no first. What
 kept her going wasn't stubbornness for its own sake. Years earlier, teaching university
 students how to use a clunky, hard-to-learn design program, she'd watched them struggle
@@ -309,7 +307,7 @@ chapters ahead as conditional on the goal you've chosen.
 firmly. His reasoning: starting a company "changes your life irrevocably" (in a way you
 can't take back), the same way having kids does. There are things you can only do easily
 before that happens: travel with no deadline, follow a project that seems to have no
-payoff, meet dozens of potential future co-founders in a place built exactly for that.
+payoff, meet dozens of potential future cofounders in a place built exactly for that.
 Once a startup is working, those options close. Graham's view: you're not a student who
 happens to also run a company. If the startup succeeds, "you're not a student anymore,"
 no matter what your enrollment status says. His advice, aimed at an audience of college

@@ -1,5 +1,3 @@
-*Status: Finalized*
-
 # Chapter 17 — Execution: Focus, Speed, Momentum
 
 Imagine a consumer web product where every existing user brings in, on average, 0.99 new

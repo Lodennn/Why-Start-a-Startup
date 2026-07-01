@@ -1,5 +1,3 @@
-*Status: Finalized*
-
 # Chapter 2 — The Anatomy of a Great Idea
 
 The thirteenth search engine. Nobody wanted that. Search was already a solved problem in
@@ -267,7 +265,7 @@ as a side effect of things you were doing anyway. His formula:
 3. Do it with people you like and respect.
 
 That third point solves two problems in one motion, since it's also how you find
-co-founders — a subject Chapter 4 covers in full.
+cofounders — a subject Chapter 4 covers in full.
 
 The track record backs this up in an odd way: Yahoo, Google, Facebook, and Apple all
 started as side projects that weren't meant to become companies. None of their founders

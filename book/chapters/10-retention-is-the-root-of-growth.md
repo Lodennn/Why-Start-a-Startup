@@ -1,5 +1,3 @@
-*Status: Finalized*
-
 # Chapter 10 — Retention Is the Root of Growth
 
 When Alex Schultz joined Facebook's advertising team, the product he was hired to grow

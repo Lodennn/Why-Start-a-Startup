@@ -1,5 +1,3 @@
-*Status: Finalized*
-
 # Chapter 15 — Legal and Financial Mechanics
 
 A Y Combinator company once incorporated as an LLC in Connecticut, on the advice of a

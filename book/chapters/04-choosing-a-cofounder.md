@@ -1,5 +1,3 @@
-*Status: Finalized*
-
 # Chapter 4 — Choosing a Cofounder
 
 One Y Combinator batch, Sam Altman recalls, had about seventy-five companies. Nine of

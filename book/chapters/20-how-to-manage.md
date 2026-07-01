@@ -1,5 +1,3 @@
-*Status: Finalized*
-
 # Chapter 20 — How to Manage
 
 A genuinely good employee walks into a CEO's office and asks for a raise. Every instinct

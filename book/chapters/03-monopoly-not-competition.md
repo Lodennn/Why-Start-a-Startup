@@ -1,5 +1,3 @@
-*Status: Finalized*
-
 # Chapter 3 — Monopoly, Not Competition
 
 In 2012, U.S. airlines brought in about $195 billion in domestic revenue. Google brought
@@ -137,7 +135,7 @@ numbers on this pattern:
 - **eBay** started with people trading Pez dispensers, moved to Beanie Babies, and only
   later became the platform for practically any category of good sold at auction.
 - **PayPal** started with eBay's "power sellers," a group of only about 20,000 people.
-  Thiel and his co-founders reached roughly 25–30% penetration of that tiny market within
+  Thiel and his cofounders reached roughly 25–30% penetration of that tiny market within
   two to three months of launch, and used that foothold to expand from there.
 - **Facebook** started with about 10,000 people at Harvard, and reached roughly 60%
   of that market within ten days.
@@ -370,7 +368,7 @@ probably found an "intersection" lie rather than a real, defensible position.
 Second, describe it the way an actual monopoly downplays itself: as the union of several
 much larger categories, so the real dominant position gets lost in a crowd of imagined
 competitors. If your honest internal sense of the business — the one you'd only say out
-loud to a co-founder — sounds a lot closer to the second description than the first, you
+loud to a cofounder — sounds a lot closer to the second description than the first, you
 may actually be closer to a real monopoly than your public pitch admits.
 
 The test that matters, per Thiel's own answer to this exact question in a Q&A after his

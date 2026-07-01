@@ -1,5 +1,3 @@
-*Status: Finalized*
-
 # Epilogue — The Long Road
 
 One of Airbnb's founders once drew a picture on a business card for another founder just

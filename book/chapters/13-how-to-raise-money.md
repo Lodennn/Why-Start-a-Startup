@@ -1,5 +1,3 @@
-*Status: Finalized*
-
 # Chapter 13 — How to Raise Money
 
 About four thousand companies try to raise venture capital in a given year. Roughly two
@@ -8,7 +6,7 @@ eventually reach $100 million in revenue. Those fifteen companies — out of the
 four thousand — will generate somewhere around 97% of all the returns the entire venture
 capital industry makes that year.
 
-Marc Andreessen, co-founder of the venture firm Andreessen Horowitz, shares that number
+Marc Andreessen, cofounder of the venture firm Andreessen Horowitz, shares that number
 not to be discouraging, but to explain something that otherwise looks irrational about
 how investors behave: venture capital is a business built entirely around finding
 extreme outliers, and almost every practice covered in this chapter — what investors
@@ -64,6 +62,31 @@ compelling sentence. By his own account, roughly a quarter of the founders he me
 can't clear that bar after their first sentence — and after enough years doing this, he
 simply stops the pitch and asks them to restart.
 
+### What investors actually check when they evaluate "revenue risk"
+
+Two layers of Andreessen's onion — revenue risk and cost-of-sales risk — get evaluated
+through a specific lens worth naming directly, since it connects to a framework this book
+already covers in full: unit economics. An investor looking at "revenue risk" is really
+asking the same question Chapter 11 built a worked example around — does customer
+lifetime value (CLV) exceed customer acquisition cost (CAC), broken down by segment
+rather than blended into a single average — and an investor looking at "cost-of-sales
+risk" is asking whether a company's sales motion (Chapter 16 covers this directly) can
+scale without costing more than the revenue it brings in. A founder walking into a
+fundraising conversation without a clear, segment-level answer to this math is, in
+effect, asking an investor to take the revenue-risk layer of the onion on faith.
+
+This is also where a real structural difference shows up between consumer software and
+enterprise software, worth flagging honestly: Andreessen notes that enterprise and SaaS
+companies frequently have no MVP-equivalent stage at all. A consumer app can launch
+something minimal and iterate in public; an enterprise customer, by contrast, usually
+won't adopt anything short of a genuinely complete product, which means an enterprise
+company often needs to raise five to ten million dollars just to build the first version
+customers will actually buy — a "cold start" with no scaled-down early version to test
+demand first. This isn't a reason to avoid enterprise software (Chapter 16 covers why it
+can still be an excellent bet) — it's a reason the onion-theory precision this chapter
+recommends for capital-intensive businesses applies to certain software categories too,
+not just to hardware and biotech.
+
 ### Being fundable is easier than almost everything that follows
 
 Andreessen's own comparison, delivered as a direct challenge to the idea that fundraising
@@ -77,7 +100,7 @@ pitch deck — it's making the underlying business good enough that raising mone
 close to a formality.
 
 Parker Conrad's own story, told directly in this same panel, makes the point uncomfortably
-concrete. Pitching an earlier company, he and his co-founder were rejected by roughly
+concrete. Pitching an earlier company, he and his cofounder were rejected by roughly
 sixty different venture firms. At one of those meetings, a partner at Khosla Ventures
 told him bluntly: "If you guys were the Twitter guys, you could come in and pitch us
 anything and we'd fund you. You're not the Twitter guys, so you need to have all this

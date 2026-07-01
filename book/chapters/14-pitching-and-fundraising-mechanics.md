@@ -1,5 +1,3 @@
-*Status: Finalized*
-
 # Chapter 14 — Pitching and Fundraising Mechanics
 
 Y Combinator ran a mock pitch exercise once, live, in front of a class. A founder played

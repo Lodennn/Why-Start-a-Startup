@@ -1,9 +1,7 @@
-*Status: Finalized*
-
 # Chapter 5 — The First Ten Hires
 
 Airbnb spent five months interviewing its first employee. In the company's entire first
-year, it hired two people. Before any of that, Brian Chesky and his co-founders wrote
+year, it hired two people. Before any of that, Brian Chesky and his cofounders wrote
 down the culture values they wanted every future Airbnb employee to hold — before there
 was a product worth using, before there was any revenue, before there was anyone to
 apply the values to yet. One of those values was that you had to "bleed Airbnb." Chesky
@@ -83,7 +81,7 @@ outside the immediate geographic area you're hiring in. Competition for engineer
 place like Silicon Valley is brutal; the person you already know from somewhere else in
 the world may be just as good and much easier to bring on.
 
-Ben Silbermann, Pinterest's co-founder, makes a complementary point from the other
+Ben Silbermann, Pinterest's cofounder, makes a complementary point from the other
 direction: there's no wrong *place* to look, even if referrals are the best source on
 average. His own early hiring included posting ads on Craigslist, showing up to random
 tech talks, and running weekly bring-your-own-food-and-drink barbecues at the office just

@@ -1,5 +1,3 @@
-*Status: Finalized*
-
 # Chapter 19 — How to Operate
 
 Bill Walsh took over the San Francisco 49ers in 1979. The team had just finished a

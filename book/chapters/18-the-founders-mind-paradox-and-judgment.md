@@ -1,5 +1,3 @@
-*Status: Finalized*
-
 # Chapter 18 — The Founder's Mind: Paradox and Judgment
 
 When Reid Hoffman started telling people his idea for LinkedIn, roughly two-thirds of

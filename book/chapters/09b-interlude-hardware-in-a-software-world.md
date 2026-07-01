@@ -1,5 +1,3 @@
-*Status: Finalized*
-
 *This is an optional interlude. It covers hardware and connected-device products
 specifically — a narrower case than the software-only startups the rest of this book
 focuses on. If you're building pure software, you can skip this and go straight to Part
