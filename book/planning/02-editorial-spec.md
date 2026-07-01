@@ -32,6 +32,16 @@ seen a cap table or a term sheet. Explain finance/business terms the first time 
 appear, precisely, once, with an example, and then never re-explain (glossary and
 cross-references handle repetition).
 
+Plain-English / ESL-friendly rule (standing rule, added after Chapter 1 draft feedback):
+the reader is not assumed to be a native English speaker. Prefer short, direct sentences
+over long ones with multiple subordinate clauses. Prefer common, plain words over
+fancier native-level synonyms (e.g., "fall apart" over "collapse under scrutiny," "hard
+to reverse" over "irrevocable," "settle disagreements" over "arbitrate conflicts").
+Minimize idioms; where a direct quote from a named speaker contains an idiom, keep the
+quote verbatim (quotes are never altered) but keep the surrounding explanation simple so
+the meaning is still clear from context. This is a register change only — it must never
+reduce the depth, nuance, numbers, or examples in the chapter.
+
 ## 2. Chapter Template
 
 Every chapter follows this skeleton:
