@@ -173,6 +173,26 @@ articulate the vision, then keep repeating it — in recruiting conversations, i
 meetings, press interviews, customer emails — until it's said itself so many times that
 it's simply what people believe about the company, largely because it's true.
 
+### Culture has to extend past your own employees, to the people your product depends on
+
+Chesky is candid that Airbnb got this one wrong for years before correcting it. In the
+company's earliest days, he took what he calls "the Craig Newmark school of thought" —
+named for Craigslist's founder — that anyone should be able to use Airbnb: if you wanted
+to rent out your place, you simply could, with no cultural gate at all. Most hosts, it
+turned out, genuinely believed in the same values the company did. But a meaningful
+minority didn't — they'd found a way to make money renting out a home, full stop, with no
+particular attachment to what Airbnb was actually trying to build — and Chesky is direct
+that this group caused a disproportionate share of the company's real problems. The
+lesson landed late: hosts aren't just users of the product, they're partners in it, and
+partners need to actually believe in the same culture employees are hired against, not
+merely comply with a terms-of-service agreement. Airbnb's fix was the Superhost
+program — a status hosts have to actively earn by demonstrating the company's values in
+practice, in exchange for priority support and better placement in search results. The
+broader point generalizes past Airbnb specifically: a culture that only governs the
+people on your payroll, while leaving the people your product actually depends on
+entirely ungoverned, has simply moved its weakest link outside the building instead of
+fixing it.
+
 ### Transparency scales, but not automatically
 
 Culture at ten people and culture at two hundred people require different tools, even if

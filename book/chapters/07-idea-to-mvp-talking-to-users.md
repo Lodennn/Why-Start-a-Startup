@@ -90,6 +90,27 @@ guilt-tripped customers didn't cancel afterward, which was the real signal that 
 underlying product was solving something real, however unglamorous the first ten
 customers' path to signing up had been.
 
+### Narrow the customer segment before you try to serve everyone
+
+A related discipline, easy to skip past because it feels like giving up on the eventual
+goal: Cheung's advice is to deliberately corner off a specific customer segment early,
+rather than building for "everyone" from day one. The eventual product might reasonably
+serve nearly anyone, but optimizing for a genuinely broad audience at the start means
+optimizing for no one in particular. Whether the chosen slice is teenage girls or soccer
+moms, picking one narrow group on purpose lets a founder focus hard enough on that
+group's specific needs to actually build something that works for them, rather than a
+diffuse compromise that half-works for everyone.
+
+Once real users exist, they need a real way to reach back. Cheung's specific recommendation
+is a phone number with voicemail attached, so a founder isn't forced to answer every call
+live — but some inbound channel has to exist. That said, an open inbound channel is a
+supplement to talking with users directly, not a substitute for it: the real signal comes
+from founders going out and initiating those conversations themselves, not waiting for
+complaints to arrive. For a faster read on whether things are working than the weeks or
+months a full retention curve takes to materialize, Cheung recommends leading indicators
+that arrive immediately — star ratings and reviews, or a **Net Promoter Score (NPS)**: a
+simple 0–10 rating of how likely a user is to recommend the product to a friend.
+
 ### Ask what people do, not what they'd like
 
 Emmett Shear's sharpest methodological point, drawn from building Twitch, is about a

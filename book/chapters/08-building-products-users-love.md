@@ -113,6 +113,15 @@ instead of waiting for someone else to report it through a queue. The fix isn't 
 support labor. It's putting the people with the power to fix the root cause in direct,
 unfiltered contact with the consequences of not fixing it.
 
+Hale points to Airbnb as another company that learned this lesson directly, if less
+visibly: in the company's early years, cofounder Joe Gebbia was frequently seen with a
+phone headset stuck to his head, doing support calls himself, constantly. The part of
+that story most people miss, focused as they are on the more famous professional-
+photography growth hack from the same period, is that Airbnb's growth genuinely started
+compounding once the founders personally understood how to match support capacity to
+actual incoming demand — a lesson that came directly out of Gebbia's own time on the
+phones, not from a dashboard.
+
 Wufoo ran this at real scale: roughly 500,000 registered users, five million people
 touched by Wufoo forms whether they knew the brand or not, and all of that supported by
 the same ten-person team, one person on shift per day. Response times held at seven to

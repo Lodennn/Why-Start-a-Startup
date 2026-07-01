@@ -177,8 +177,8 @@ selling this as a feedback tool to large players directly.
 
 **Qasar:** There are three of us, all technical. Mike and I started a company together
 before — it failed, so I don't know if that's a point in our favor or not — and Sonny
-was an engineer at [a major tech company] before this. We come from retail. We built
-everything ourselves, and we sold everything ourselves.
+was an engineer before this. We come from retail. We built everything ourselves, and we
+sold everything ourselves.
 
 **Dalton:** Okay.
 

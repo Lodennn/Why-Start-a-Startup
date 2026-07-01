@@ -102,9 +102,10 @@ close to a formality.
 Parker Conrad's own story, told directly in this same panel, makes the point uncomfortably
 concrete. Pitching an earlier company, he and his cofounder were rejected by roughly
 sixty different venture firms. At one of those meetings, a partner at Khosla Ventures
-told him bluntly: "If you guys were the Twitter guys, you could come in and pitch us
-anything and we'd fund you. You're not the Twitter guys, so you need to have all this
-analysis ready." Conrad took the opposite lesson from the one the partner intended — not
+told him bluntly, in Conrad's own retelling of the moment: if they'd been "the Twitter
+guys," they could have pitched anything at all and been funded on the spot; since they
+weren't, they needed to have all their analysis ready to justify the bet. Conrad took the
+opposite lesson from the one the partner intended — not
 "prepare better analysis," but "figure out how to actually become the kind of company
 that doesn't need the analysis." His next company, Zenefits, was deliberately conceived
 as a business that could plausibly grow without ever raising outside money at all — and
