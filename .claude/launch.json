@@ -6,6 +6,12 @@
       "runtimeExecutable": "node",
       "runtimeArgs": ["/Users/khalednasser/Documents/Lodenn/how-to-start-a-startup/book/site/serve.js"],
       "port": 8743
+    },
+    {
+      "name": "book-site-ar",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["/Users/khalednasser/Documents/Lodenn/how-to-start-a-startup/book/site-ar/serve.js"],
+      "port": 8744
     }
   ]
 }

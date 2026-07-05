@@ -4,3 +4,6 @@
 book/site/node_modules/
 book/site/package-lock.json
 book/site/preview.png
+book/site-ar/node_modules/
+book/site-ar/package-lock.json
+book/site-ar/preview.png
