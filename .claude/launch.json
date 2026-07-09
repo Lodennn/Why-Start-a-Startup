@@ -12,6 +12,12 @@
       "runtimeExecutable": "node",
       "runtimeArgs": ["/Users/khalednasser/Documents/Lodenn/how-to-start-a-startup/book/site-ar/serve.js"],
       "port": 8744
+    },
+    {
+      "name": "book-site-msa",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["/Users/khalednasser/Documents/Lodenn/how-to-start-a-startup/book/site-msa/serve.js"],
+      "port": 8745
     }
   ]
 }

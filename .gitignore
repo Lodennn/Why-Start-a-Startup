@@ -7,3 +7,6 @@ book/site/preview.png
 book/site-ar/node_modules/
 book/site-ar/package-lock.json
 book/site-ar/preview.png
+book/site-msa/node_modules/
+book/site-msa/package-lock.json
+book/site-msa/preview.png
